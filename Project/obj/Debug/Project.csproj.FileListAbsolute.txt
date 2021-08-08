@@ -1,0 +1,12 @@
+E:\Hassaan Siddiqui\University\2nd Sem\C#\Project\Project\bin\Debug\Project.exe.config
+E:\Hassaan Siddiqui\University\2nd Sem\C#\Project\Project\bin\Debug\Project.exe
+E:\Hassaan Siddiqui\University\2nd Sem\C#\Project\Project\bin\Debug\Project.pdb
+E:\Hassaan Siddiqui\University\2nd Sem\C#\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+E:\Hassaan Siddiqui\University\2nd Sem\C#\Project\Project\obj\Debug\Project.Properties.Resources.resources
+E:\Hassaan Siddiqui\University\2nd Sem\C#\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+E:\Hassaan Siddiqui\University\2nd Sem\C#\Project\Project\obj\Debug\Project.exe
+E:\Hassaan Siddiqui\University\2nd Sem\C#\Project\Project\obj\Debug\Project.pdb
+E:\Hassaan Siddiqui\University\2nd Sem\C#\Project\Project\obj\Debug\Project.crash2.resources
+E:\Hassaan Siddiqui\University\2nd Sem\C#\2 Sem Project(Game)\Project\bin\Debug\Project.exe.config
+E:\Hassaan Siddiqui\University\2nd Sem\C#\2 Sem Project(Game)\Project\obj\Debug\Project.exe
+E:\Hassaan Siddiqui\University\2nd Sem\C#\2 Sem Project(Game)\Project\obj\Debug\Project.pdb
